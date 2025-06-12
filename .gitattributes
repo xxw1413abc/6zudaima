@@ -1,0 +1,9 @@
+# 设置所有文件默认使用 LF 换行符，并保留原始格式
+* text=auto
+
+# 明确设置某些类型文件使用 LF
+*.html text
+*.css text
+*.js text
+*.json text
+*.md text
